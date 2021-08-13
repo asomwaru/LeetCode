@@ -2,7 +2,7 @@
 from typing import List
 
 
-def findAllDuplicates(num: List[int]) -> List[int]:
+def findAllDuplicates(nums: List[int]) -> List[int]:
     mapper = {}
 
     while len(nums) != 0:

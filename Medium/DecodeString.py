@@ -1,6 +1,5 @@
 # https://leetcode.com/problems/decode-string/
-
-# 23:40
+# incomplete and searched up answer
 
 from typing import List
 from string import ascii_lowercase
